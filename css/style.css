@@ -552,9 +552,9 @@ a {
         justify-content: start;
         gap: 1rem;
     }
-    /* .container .btn{
-        width: 100%;
-    } */
+    .container .btn{
+        width: 40%;
+    } 
     .btn1{
         width: 100%;
     }
