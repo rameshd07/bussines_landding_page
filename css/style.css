@@ -536,7 +536,7 @@ a {
     background-color: #D9D9D9;
 }
 
-@media only screen and (min-width:350px) and (max-width:700px){
+@media only screen and (min-width:320px) and (max-width:700px){
     .container{
         flex-direction: column;
         width: 100%;
@@ -653,6 +653,14 @@ a {
         width: 100%;
         height: max-content;
     }
+    .blong .card{
+        width: 100%;
+        height: max-content;
+    }
+    .blong-btn{
+        width: 100%;
+        height: max-content;
+    }
     .happy{
         
         width: 100%;
@@ -666,14 +674,16 @@ a {
     .reviwe{
         flex-direction: column;
         width: 100%;
-        height: max-content;
+        height:max-content;
         margin-bottom: 4%;
+        margin-bottom: 3%;
     }
     .reviwe1{
         padding: 8%;
         width: 100%;
         height: max-content;
-        margin-top: 5%;
+        margin-top: 2%;
+        margin-bottom: 15%;
     }
     .pic{
         width: 100%;
@@ -683,12 +693,15 @@ a {
         width: 100%;
         height: max-content;
     }
+    
     .qus{
+        margin-top: 5%;
         flex-direction: column;
         width: 100%;
         height: max-content;
     }
     .qus-box1{
+        margin-top: 10%;
         width: 100%;
         height: max-content;
     }
@@ -697,7 +710,7 @@ a {
         height: max-content;
     }
     .head-box1{
-        width: auto;
+        width: 100%;
         height: max-content;
     }
     .head-box2{
